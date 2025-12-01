@@ -1,0 +1,300 @@
+size (cm),shape,weight (g),avg_price (₹),color,taste,fruit_name
+25.4,round,3089.2,137.1,green,sweet,watermelon
+24.6,round,3283.9,163.8,green,sweet,watermelon
+7.8,round,319,91.3,green,sweet,custard apple
+20,oval,1607,85.7,orange,sweet,papaya
+10.2,long,131.5,37.8,yellow,sweet,banana
+19.4,oval,1404.1,86,orange,sweet,papaya
+6.3,round,262.3,125,red,sweet,pomegranate
+0.9,round,5.4,9.4,purple,sweet,grape
+4,round,46.4,66.9,purple,tangy,plum
+7.6,round,274.7,93,green,sweet,custard apple
+7.3,round,213.3,65.5,green,sour,guava
+1,round,5.1,38,blue,sweet,blueberry
+18.9,round,1212.2,101.1,brown,sweet,coconut
+3,oval,9.7,31.8,red,sweet,cherry
+8.5,oval,260.3,110.3,yellow,sweet,mango
+16.9,round,1123.6,109.4,brown,sweet,coconut
+6.7,round,242.3,127.2,red,sweet,pomegranate
+9.2,oval,249.3,121.9,yellow,sweet,mango
+7.5,round,195.4,56.7,green,sour,guava
+15.1,oval,1305.2,98.6,brown,tangy,pineapple
+15.2,oval,1091.9,81.4,brown,tangy,pineapple
+8.5,round,314.4,91.2,green,sweet,custard apple
+9.4,oval,228.8,109.2,yellow,sweet,mango
+16.2,round,1144,106.9,brown,sweet,coconut
+0.9,round,4.8,9,purple,sweet,grape
+8.8,oval,177.8,74.6,green,sweet,pear
+15.3,oval,1262,88.9,brown,tangy,pineapple
+2.1,round,13.6,54.7,pink,sweet,lychee
+1,round,4.9,9.3,purple,sweet,grape
+13.5,oval,1312.2,89.9,brown,tangy,pineapple
+5.4,round,136,80.2,red,sweet,apple
+18.6,round,1202.9,102.3,brown,sweet,coconut
+6.6,round,217.2,63.9,green,sour,guava
+9.8,long,118.1,37.1,yellow,sweet,banana
+14.5,oval,1293,91.1,brown,tangy,pineapple
+4,round,52.9,67.8,purple,tangy,plum
+4.3,round,45,71.5,purple,tangy,plum
+7.3,round,253.3,129.9,red,sweet,pomegranate
+15.9,oval,1102.9,86.9,brown,tangy,pineapple
+2.7,oval,10.1,27.3,red,sweet,cherry
+9,long,126,37.6,yellow,sweet,banana
+4,round,52.8,72.2,purple,tangy,plum
+9.3,long,117.3,36.5,yellow,sweet,banana
+27.2,round,2818.8,148.4,green,sweet,watermelon
+6.2,round,147.6,83.4,red,sweet,apple
+2.2,round,13.8,53.1,pink,sweet,lychee
+1,round,4.9,10.2,purple,sweet,grape
+1,round,4.7,36.9,blue,sweet,blueberry
+5.9,round,149.9,73.8,red,sweet,apple
+9.7,oval,266.3,127.6,yellow,sweet,mango
+24.8,round,3274.4,148.3,green,sweet,watermelon
+6.9,round,200.1,63.9,green,sour,guava
+6.8,round,237.4,121.4,red,sweet,pomegranate
+5.2,oval,45.4,20.5,orange,tangy,orange
+10.1,oval,401.4,151.2,pink,sweet,dragon fruit
+4.9,oval,80.5,97.5,brown,tangy,kiwi
+9.2,oval,251.4,130.2,yellow,sweet,mango
+21.6,oval,1490.5,84.5,orange,sweet,papaya
+13.7,oval,1179.8,92.9,brown,tangy,pineapple
+8,oval,188.1,68,green,sweet,pear
+3.1,oval,19.7,64.7,red,sweet,strawberry
+9.2,oval,263.4,131.5,yellow,sweet,mango
+7.5,round,304.8,94,green,sweet,custard apple
+5.8,round,138,86.1,red,sweet,apple
+1,round,4.9,9.2,purple,sweet,grape
+10.2,oval,421.8,140.2,pink,sweet,dragon fruit
+16.3,oval,1178.8,90.1,brown,tangy,pineapple
+10.4,long,120.8,41.7,yellow,sweet,banana
+8.5,oval,162.9,69.1,green,sweet,pear
+4.1,round,47.4,69.9,purple,tangy,plum
+16.4,oval,1111.3,83,brown,tangy,pineapple
+1.9,round,14.9,53.3,pink,sweet,lychee
+8.8,round,311,82.7,green,sweet,custard apple
+5.2,oval,73.6,109.1,brown,tangy,kiwi
+18.3,oval,1649.3,85.4,orange,sweet,papaya
+15.2,oval,1224.2,81.3,brown,tangy,pineapple
+8.5,round,288.7,91.6,green,sweet,custard apple
+15.2,oval,1201.7,95.1,brown,tangy,pineapple
+19.1,oval,1387.3,81.8,orange,sweet,papaya
+24.5,round,2965.6,163.1,green,sweet,watermelon
+3,oval,18,62.8,red,sweet,strawberry
+6.7,round,259.3,129.4,red,sweet,pomegranate
+0.9,round,5.4,38.7,blue,sweet,blueberry
+17.7,round,1219.9,102.7,brown,sweet,coconut
+1.1,round,5,9.1,purple,sweet,grape
+16.1,oval,1095.1,87.9,brown,tangy,pineapple
+5.4,oval,69.3,101.1,brown,tangy,kiwi
+6.5,round,261.6,122.4,red,sweet,pomegranate
+7.6,round,274.5,110.8,red,sweet,pomegranate
+3.1,oval,10.2,27.4,red,sweet,cherry
+2.8,oval,9.7,32.2,red,sweet,cherry
+4.7,oval,73.1,97.2,brown,tangy,kiwi
+9.1,oval,244.1,128.8,yellow,sweet,mango
+1.1,round,5.3,42.9,blue,sweet,blueberry
+10.2,long,110.8,37.1,yellow,sweet,banana
+3.3,oval,18.7,58.6,red,sweet,strawberry
+6.6,round,240.9,127.9,red,sweet,pomegranate
+5.9,round,142.1,75.8,red,sweet,apple
+0.9,round,5.1,10.9,purple,sweet,grape
+27,round,2923.2,142.5,green,sweet,watermelon
+3.1,oval,10,32.8,red,sweet,cherry
+9.9,long,127.3,43.3,yellow,sweet,banana
+4.2,round,47.2,72,purple,tangy,plum
+10.8,long,123.2,37.3,yellow,sweet,banana
+1.1,round,5.3,43.7,blue,sweet,blueberry
+9.7,oval,268.7,126.5,yellow,sweet,mango
+6.8,round,241.4,121.2,red,sweet,pomegranate
+6,round,139.9,77.5,red,sweet,apple
+1,round,5.2,9.2,purple,sweet,grape
+2,round,14.1,46.4,pink,sweet,lychee
+15,oval,1139,92.8,brown,tangy,pineapple
+4.3,round,52.3,71.6,purple,tangy,plum
+26.8,round,3106.1,151.3,green,sweet,watermelon
+18.3,oval,1520.3,86.7,orange,sweet,papaya
+6.5,round,139.6,75.6,red,sweet,apple
+5.7,round,152.7,78.6,red,sweet,apple
+5.7,round,153.4,87.2,red,sweet,apple
+1.1,round,4.6,10.5,purple,sweet,grape
+9.4,oval,273.5,130.4,yellow,sweet,mango
+4.3,round,50,71.1,purple,tangy,plum
+6.9,round,250.9,129.1,red,sweet,pomegranate
+9.3,oval,258.7,125.7,yellow,sweet,mango
+18.4,round,1102.1,101.3,brown,sweet,coconut
+8.7,oval,193,73.2,green,sweet,pear
+10,oval,434.2,143,pink,sweet,dragon fruit
+6.3,round,198.5,62.9,green,sour,guava
+2.1,round,16.4,49.9,pink,sweet,lychee
+8,round,280.5,97.8,green,sweet,custard apple
+8.2,oval,179.3,63.1,green,sweet,pear
+8.2,oval,269.4,125.6,yellow,sweet,mango
+3.7,round,47.4,66.6,purple,tangy,plum
+26.1,round,2925.7,146.5,green,sweet,watermelon
+15.3,oval,1241.7,92.5,brown,tangy,pineapple
+2.2,round,16.5,50.4,pink,sweet,lychee
+6.6,round,271.8,116.5,red,sweet,pomegranate
+27,round,2933.9,155.7,green,sweet,watermelon
+7.7,round,285.7,97.3,green,sweet,custard apple
+1.1,round,4.6,42.3,blue,sweet,blueberry
+2.9,oval,10.8,27.2,red,sweet,cherry
+22.9,round,3186.3,135.8,green,sweet,watermelon
+22.8,round,2938.8,157.4,green,sweet,watermelon
+4.7,oval,49.4,18.7,orange,tangy,orange
+9.7,oval,228.3,114.2,yellow,sweet,mango
+5,oval,72.6,106.7,brown,tangy,kiwi
+1.8,round,14.1,52.6,pink,sweet,lychee
+7.6,oval,192,75.1,green,sweet,pear
+4.9,oval,69.9,103,brown,tangy,kiwi
+1,round,5.4,10.6,purple,sweet,grape
+4.1,round,53.3,67.2,purple,tangy,plum
+1,round,5.2,9,purple,sweet,grape
+7.8,round,288.3,95.6,green,sweet,custard apple
+8.3,round,292.5,91.8,green,sweet,custard apple
+7.4,round,186.7,64.3,green,sour,guava
+7.2,round,253.8,122.5,red,sweet,pomegranate
+8.6,oval,254,121.4,yellow,sweet,mango
+3.1,oval,10.2,29.1,red,sweet,cherry
+9.1,long,115.3,38,yellow,sweet,banana
+3.7,round,53.4,73.4,purple,tangy,plum
+15.5,oval,1241.3,81.9,brown,tangy,pineapple
+8,round,286.8,81.7,green,sweet,custard apple
+2.1,round,16.1,48,pink,sweet,lychee
+9.4,long,123.4,41.6,yellow,sweet,banana
+1,round,4.6,9.6,purple,sweet,grape
+18.4,round,1092.9,102.6,brown,sweet,coconut
+2.7,oval,18.7,62.8,red,sweet,strawberry
+14.1,oval,1120.7,94.4,brown,tangy,pineapple
+8.9,oval,240.5,118.2,yellow,sweet,mango
+4.9,oval,47.6,18.9,orange,tangy,orange
+1.1,round,5.4,39.3,blue,sweet,blueberry
+5,oval,72.9,105.1,brown,tangy,kiwi
+7,round,232,118.3,red,sweet,pomegranate
+5.3,oval,53.4,21.4,orange,tangy,orange
+10.6,oval,435.9,164,pink,sweet,dragon fruit
+7.5,round,274.2,128.7,red,sweet,pomegranate
+5.4,round,153.1,78.3,red,sweet,apple
+3,oval,9.1,31.6,red,sweet,cherry
+2,round,15.6,48,pink,sweet,lychee
+7.9,round,280,93.4,green,sweet,custard apple
+19.4,oval,1389.3,78.9,orange,sweet,papaya
+5,oval,47.9,18.1,orange,tangy,orange
+0.9,round,5.3,38.3,blue,sweet,blueberry
+1,round,5.4,9.5,purple,sweet,grape
+2,round,13.9,53.6,pink,sweet,lychee
+7.9,round,298.4,92.8,green,sweet,custard apple
+7.7,round,308.3,86.4,green,sweet,custard apple
+13.5,oval,1133.1,94.3,brown,tangy,pineapple
+10.8,oval,424.3,146.2,pink,sweet,dragon fruit
+9.1,oval,242.6,113.9,yellow,sweet,mango
+10.1,oval,437.4,137.6,pink,sweet,dragon fruit
+4.2,round,51.8,73.1,purple,tangy,plum
+7.5,round,262,118.3,red,sweet,pomegranate
+9.7,long,124.5,38.4,yellow,sweet,banana
+7.5,round,279.2,90.9,green,sweet,custard apple
+15.6,oval,1184.1,84,brown,tangy,pineapple
+3,oval,21.8,60.4,red,sweet,strawberry
+1.9,round,16,48.3,pink,sweet,lychee
+5.4,oval,49.1,18.7,orange,tangy,orange
+10,oval,410,144.6,pink,sweet,dragon fruit
+1.1,round,4.9,10.5,purple,sweet,grape
+18.4,oval,1426.3,76.4,orange,sweet,papaya
+1,round,4.6,36.4,blue,sweet,blueberry
+19.5,round,1132.2,101.3,brown,sweet,coconut
+7.6,round,199.7,63.7,green,sour,guava
+6.1,round,137.7,76.7,red,sweet,apple
+17.6,round,1098.7,104.8,brown,sweet,coconut
+9.5,oval,256,118.9,yellow,sweet,mango
+5.2,oval,54,19,orange,tangy,orange
+6.9,round,186.6,59.8,green,sour,guava
+1.1,round,4.6,39.9,blue,sweet,blueberry
+17.2,round,1236.9,92.5,brown,sweet,coconut
+2.9,oval,21.5,57.4,red,sweet,strawberry
+7.7,round,242.5,120.3,red,sweet,pomegranate
+1,round,4.5,10.4,purple,sweet,grape
+7.4,round,289,98.9,green,sweet,custard apple
+21.2,oval,1494.7,74.9,orange,sweet,papaya
+18.6,round,1226.6,92.3,brown,sweet,coconut
+18.5,round,1288.9,107.6,brown,sweet,coconut
+4.1,round,54.8,68.3,purple,tangy,plum
+4.5,oval,47.4,20.1,orange,tangy,orange
+3,oval,10.5,28.8,red,sweet,cherry
+3.2,oval,18.4,54.1,red,sweet,strawberry
+2.2,round,16.4,54.3,pink,sweet,lychee
+10.8,long,131.4,41.2,yellow,sweet,banana
+3.1,oval,10.5,31.6,red,sweet,cherry
+2,round,13.6,51.2,pink,sweet,lychee
+1.1,round,4.5,36.7,blue,sweet,blueberry
+1,round,5.4,42.6,blue,sweet,blueberry
+0.9,round,5.2,38,blue,sweet,blueberry
+2.9,oval,9.2,27.6,red,sweet,cherry
+11,oval,419.5,149.6,pink,sweet,dragon fruit
+3.3,oval,10.8,31.8,red,sweet,cherry
+7.6,round,211,64.8,green,sour,guava
+1,round,5.2,37,blue,sweet,blueberry
+7.5,round,262.8,125.1,red,sweet,pomegranate
+7.6,round,245.6,111.8,red,sweet,pomegranate
+1,round,4.8,10.6,purple,sweet,grape
+6.5,round,202.2,56,green,sour,guava
+18,round,1118.1,93.3,brown,sweet,coconut
+7.3,round,251.2,120.4,red,sweet,pomegranate
+26.8,round,3176.1,160.1,green,sweet,watermelon
+1,round,4.9,41.6,blue,sweet,blueberry
+7.6,round,256.6,124.8,red,sweet,pomegranate
+16.5,oval,1175.8,86.5,brown,tangy,pineapple
+1,round,4.6,9.4,purple,sweet,grape
+7.5,oval,196.1,64.3,green,sweet,pear
+9.3,oval,398.7,135.3,pink,sweet,dragon fruit
+3.6,round,49.1,67.5,purple,tangy,plum
+2.1,round,16.4,49.3,pink,sweet,lychee
+6.1,round,138.3,73.2,red,sweet,apple
+7.3,round,190.2,63,green,sour,guava
+5.4,oval,72.6,99.9,brown,tangy,kiwi
+7.7,round,219.1,59.3,green,sour,guava
+16.8,round,1269.7,102.5,brown,sweet,coconut
+5.1,oval,52,19.6,orange,tangy,orange
+5.3,oval,79.3,104.6,brown,tangy,kiwi
+9,oval,238.4,123.9,yellow,sweet,mango
+5.8,round,153.5,79.3,red,sweet,apple
+19.6,oval,1393,81.7,orange,sweet,papaya
+9.3,oval,430.5,143.5,pink,sweet,dragon fruit
+1,round,4.7,36.8,blue,sweet,blueberry
+7.1,round,247.4,116.2,red,sweet,pomegranate
+6.4,round,214.2,54.3,green,sour,guava
+5.5,round,160.9,81.6,red,sweet,apple
+16.6,round,1311.9,101.7,brown,sweet,coconut
+7.9,round,303.5,88.8,green,sweet,custard apple
+8.8,oval,267.4,110.1,yellow,sweet,mango
+2.8,oval,9.2,31.5,red,sweet,cherry
+7.3,round,219,64.3,green,sour,guava
+8.6,oval,194,63.9,green,sweet,pear
+7.3,round,269.8,115.4,red,sweet,pomegranate
+14.5,oval,1125.1,85.9,brown,tangy,pineapple
+2.2,round,16,53.2,pink,sweet,lychee
+20.4,oval,1565.2,83.9,orange,sweet,papaya
+1.1,round,5.3,10.7,purple,sweet,grape
+7.3,round,232,128.8,red,sweet,pomegranate
+0.9,round,5.1,10.2,purple,sweet,grape
+23.4,round,3192,158.6,green,sweet,watermelon
+6.1,round,156.2,73.6,red,sweet,apple
+10.2,oval,367.6,161.5,pink,sweet,dragon fruit
+5.4,oval,45.8,18.3,orange,tangy,orange
+26.4,round,2892.1,162.9,green,sweet,watermelon
+7.5,round,191.9,65.2,green,sour,guava
+4.1,round,50.4,67.7,purple,tangy,plum
+2.7,oval,21.3,54.1,red,sweet,strawberry
+10.5,oval,366,143.4,pink,sweet,dragon fruit
+7.4,round,246.6,115.1,red,sweet,pomegranate
+17.3,round,1298.9,100.5,brown,sweet,coconut
+26.8,round,2737.2,155.7,green,sweet,watermelon
+4.8,oval,74,106,brown,tangy,kiwi
+8.6,round,306.6,95.4,green,sweet,custard apple
+18.7,oval,1506.5,86.5,orange,sweet,papaya
+6.3,round,155.5,78.3,red,sweet,apple
+9.9,oval,228.9,130,yellow,sweet,mango
+3.1,oval,9.1,29.8,red,sweet,cherry
+1.1,round,5.2,43.6,blue,sweet,blueberry
+24,round,3074.1,147.2,green,sweet,watermelon
+1,round,5.2,10.7,purple,sweet,grape
+6.5,round,151,84,red,sweet,apple
+19.5,round,1294.7,92.6,brown,sweet,coconut
